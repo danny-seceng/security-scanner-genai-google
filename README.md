@@ -67,7 +67,7 @@ The scanner outputs **severity-ranked findings** with clear, actionable feedback
 ### Installation Steps
 
 ```bash
-git clone https://github.com/<your-username>/ai-security-scanner.git
+https://github.com/danny-seceng/security-scanner-genai-google.git
 cd ai-security-scanner
 
 python3 -m venv venv
